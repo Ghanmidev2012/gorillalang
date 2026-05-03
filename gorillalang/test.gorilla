@@ -1,0 +1,5 @@
+// مرحباً بك في لغة غوريلا
+say "Starting Gorilla OS Tools..."
+go_web "https://github.com/Ghanmidev2012"
+set my_name = "Adam"
+say my_name
